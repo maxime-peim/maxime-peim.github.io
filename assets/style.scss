@@ -224,6 +224,10 @@ p > img {
   margin: 0 auto;
 }
 
+img.emoji {
+  display: inline;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
